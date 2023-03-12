@@ -1,5 +1,5 @@
-# dio-live-dynamodb
-Repositório para o live coding do dia 30/09/2021 sobre o Amazon DynamoDB
+
+Preservei o Readme original do projeto afim de manter o histórico de desenvolvimento.
 
 ### Serviço utilizado
   - Amazon DynamoDB
